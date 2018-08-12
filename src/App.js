@@ -5,6 +5,7 @@ class Aggregate extends Component {
   render () {
     return(
         <div style={{width:'40%', display:'inline-block'}}>
+          <p>hshvhhs</p>
           <h2 style={{color:"blue"}}> Number text</h2>
         </div>
       )
